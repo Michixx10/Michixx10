@@ -1,5 +1,5 @@
 ### Hi there 👋, Welcome to my profile
-#### Python beginner!
+#### Python beginner.
 ![Python beginner!](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
 I like to code with python alot, i'm new to it tho, but still. i love it.
